@@ -1,0 +1,6 @@
+Basic spring architecture - 
+Controler, service, repositery
+
+controler - handles the trafic
+service - handles the business logic
+repositery - handles the DB
